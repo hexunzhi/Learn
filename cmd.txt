@@ -1,3 +1,0 @@
-git init
-git add readme.txt
-git conmit -m "wrote a readme file"
